@@ -1,0 +1,11 @@
+
+How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+My MVP plan was similar to my final ruby program.
+Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+Each of my classes follow single Responsibility and makes it easy to understand the flow of data. It was difficult to grasp at the beginning but I like I am making a progress.
+
+Did you practice TDD?
+Yes- I wrote a test for every method.
+
+Are each of your methods tested? Did you find anything difficult to test?
+I find it difficult to translate pseudocode to Ruby code and also how to think as a programmer.
